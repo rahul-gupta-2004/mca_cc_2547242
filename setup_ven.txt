@@ -1,0 +1,7 @@
+python3 -m venv mca_cc_venv
+
+source mca_cc_venv/bin/activate
+
+pip install ...
+
+deactivate
