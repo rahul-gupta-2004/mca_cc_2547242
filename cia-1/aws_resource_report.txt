@@ -1,0 +1,20 @@
+==================================================
+           AWS RESOURCE INVENTORY REPORT          
+==================================================
+
+--- EC2 INSTANCE DETAILS ---
+Instance #1:
+  - Instance ID:        i-0116486c625c8b079
+  - Instance Name:      Rahul-Web-Server
+  - Instance Type:      t3.micro
+  - State:              running
+  - Public IPv4 Address: 35.170.33.48
+
+--- S3 BUCKET INVENTORY DETAILS ---
+Bucket Name: 2547242
+
+Folder Name     | Object Name               | Size (Bytes)
+------------------------------------------------------------
+efolder         | employeefile.xlsx         | 5760        
+ufolder         | userfile.xlsx             | 6221        
+ufolder         | userfile_2.xlsx           | 7283        
